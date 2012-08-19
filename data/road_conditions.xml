@@ -1,0 +1,2600 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rc:RoadConditionsDetails xmlns:rc="http://www.cotrip.org/schema/roadconditions" xmlns:global="http://www.cotrip.org/schema/global">
+    <rc:Header>
+        <global:EntityId>1</global:EntityId>
+        <global:Domain>cotrip.org,www.cotrip.org,beta.cotrip.org,www.beta.cotrip.org,m.cotrip.org,cell.cotrip.org,go.cotrip.org</global:Domain>
+        <global:GeneratedDate>2012-08-17T21:17:46.362-06:00</global:GeneratedDate>
+    </rc:Header>
+    <rc:TileId>1440340</rc:TileId>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>29</rc:WeatherRouteId>
+        <rc:RouteName>New Mexico/Raton Pass-Walsenburg</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>50.04</rc:EndMileMarker>
+        <rc:Length>50.04</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:48:58.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-25</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Wind</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>7.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Wyoming - New Mexico</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>true</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+        <rc:RoadCondition>High Wind</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>28</rc:WeatherRouteId>
+        <rc:RouteName>Walsenburg-Pueblo</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>50.04</rc:StartMileMarker>
+        <rc:EndMileMarker>98.55</rc:EndMileMarker>
+        <rc:Length>48.5</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:48:37.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-25</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Wyoming - New Mexico</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>27</rc:WeatherRouteId>
+        <rc:RouteName>Pueblo-Colorado Springs</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>98.55</rc:StartMileMarker>
+        <rc:EndMileMarker>141.13</rc:EndMileMarker>
+        <rc:Length>42.59</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:48:37.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-25</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Wyoming - New Mexico</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>26</rc:WeatherRouteId>
+        <rc:RouteName>Colorado Springs-Monument Hill</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>141.13</rc:StartMileMarker>
+        <rc:EndMileMarker>163.8</rc:EndMileMarker>
+        <rc:Length>22.64</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:48:37.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-25</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Wyoming - New Mexico</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>25</rc:WeatherRouteId>
+        <rc:RouteName>Monument Hill-Castle Rock</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>163.8</rc:StartMileMarker>
+        <rc:EndMileMarker>184.19</rc:EndMileMarker>
+        <rc:Length>20.37</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:48:37.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-25</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Wyoming - New Mexico</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>24</rc:WeatherRouteId>
+        <rc:RouteName>Castle Rock-Lincoln Ave, Douglas County</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>184.19</rc:StartMileMarker>
+        <rc:EndMileMarker>192.88</rc:EndMileMarker>
+        <rc:Length>8.68</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:48:37.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-25</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Wyoming - New Mexico</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>23</rc:WeatherRouteId>
+        <rc:RouteName>Lincoln Ave-CO 7</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>193.0</rc:StartMileMarker>
+        <rc:EndMileMarker>229.11</rc:EndMileMarker>
+        <rc:Length>36.11</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:48:37.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-25</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Wyoming - New Mexico</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>22</rc:WeatherRouteId>
+        <rc:RouteName>CO 7-Ft. Collins</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>229.11</rc:StartMileMarker>
+        <rc:EndMileMarker>269.35</rc:EndMileMarker>
+        <rc:Length>40.25</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:48:37.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-25</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Wyoming - New Mexico</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>21</rc:WeatherRouteId>
+        <rc:RouteName>Ft. Collins-Wyoming Border</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>269.35</rc:StartMileMarker>
+        <rc:EndMileMarker>298.0</rc:EndMileMarker>
+        <rc:Length>28.62</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:48:37.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-25</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Wyoming - New Mexico</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>16</rc:WeatherRouteId>
+        <rc:RouteName>Utah-Grand Junction</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>30.5</rc:EndMileMarker>
+        <rc:Length>30.5</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:47:32.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-70</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Denver - Utah</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>15</rc:WeatherRouteId>
+        <rc:RouteName>Grand Junction-Palisade-Rifle</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>31.35</rc:StartMileMarker>
+        <rc:EndMileMarker>90.41</rc:EndMileMarker>
+        <rc:Length>59.06</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:47:32.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-70</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Denver - Utah</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>14</rc:WeatherRouteId>
+        <rc:RouteName>Rifle -Glenwood Springs</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>90.41</rc:StartMileMarker>
+        <rc:EndMileMarker>116.37</rc:EndMileMarker>
+        <rc:Length>25.95</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:47:32.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-70</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Denver - Utah</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>13</rc:WeatherRouteId>
+        <rc:RouteName>Glenwood Springs-Eagle</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>116.37</rc:StartMileMarker>
+        <rc:EndMileMarker>146.63</rc:EndMileMarker>
+        <rc:Length>30.25</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:47:32.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-70</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Denver - Utah</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>12</rc:WeatherRouteId>
+        <rc:RouteName>Eagle-Vail</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>146.63</rc:StartMileMarker>
+        <rc:EndMileMarker>177.0</rc:EndMileMarker>
+        <rc:Length>30.35</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:47:32.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-70</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Denver - Utah</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>11</rc:WeatherRouteId>
+        <rc:RouteName>Vail-Vail Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>177.0</rc:StartMileMarker>
+        <rc:EndMileMarker>189.38</rc:EndMileMarker>
+        <rc:Length>12.39</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:47:32.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-70</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Denver - Utah</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>10</rc:WeatherRouteId>
+        <rc:RouteName>Vail Pass-Copper Mtn</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>189.38</rc:StartMileMarker>
+        <rc:EndMileMarker>195.38</rc:EndMileMarker>
+        <rc:Length>5.98</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:47:32.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-70</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Denver - Utah</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>9</rc:WeatherRouteId>
+        <rc:RouteName>Copper Mtn-Silverthorne</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>195.38</rc:StartMileMarker>
+        <rc:EndMileMarker>204.9</rc:EndMileMarker>
+        <rc:Length>9.51</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:47:32.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-70</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Denver - Utah</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>6</rc:WeatherRouteId>
+        <rc:RouteName>Silverthorne-Eisenhower/Johnson tunnels</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>205.0</rc:StartMileMarker>
+        <rc:EndMileMarker>213.6</rc:EndMileMarker>
+        <rc:Length>8.6</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:47:32.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-70</rc:RoadName>
+        <rc:Comment>Accident WB I-70 approaching Silverthorne at mm 206. Right lane remains blocked</rc:Comment>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Denver - Utah</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5060</rc:WeatherRouteId>
+        <rc:RouteName>Eisenhower/Johnson tunnels-Georgetown</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>213.6</rc:StartMileMarker>
+        <rc:EndMileMarker>228.0</rc:EndMileMarker>
+        <rc:Length>14.39</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:47:32.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-70</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Denver - Utah</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>4</rc:WeatherRouteId>
+        <rc:RouteName>Georgetown-Idaho Springs</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>228.0</rc:StartMileMarker>
+        <rc:EndMileMarker>239.69</rc:EndMileMarker>
+        <rc:Length>11.69</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:47:32.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-70</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Denver - Utah</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>3</rc:WeatherRouteId>
+        <rc:RouteName>Idaho Springs-Genesee</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>239.69</rc:StartMileMarker>
+        <rc:EndMileMarker>253.52</rc:EndMileMarker>
+        <rc:Length>13.81</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:47:32.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-70</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Denver - Utah</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>2</rc:WeatherRouteId>
+        <rc:RouteName>Genesee-C470</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>253.52</rc:StartMileMarker>
+        <rc:EndMileMarker>259.75</rc:EndMileMarker>
+        <rc:Length>6.21</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:47:32.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-70</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Denver - Utah</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>1</rc:WeatherRouteId>
+        <rc:RouteName>Denver C470 to I-25</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>259.75</rc:StartMileMarker>
+        <rc:EndMileMarker>274.2</rc:EndMileMarker>
+        <rc:Length>14.43</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:47:32.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-70</rc:RoadName>
+        <rc:Comment>Road work EB I-70 at Colfax with only one lane getting by. Merge left</rc:Comment>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Denver - Utah</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>17</rc:WeatherRouteId>
+        <rc:RouteName>Denver I-25 to Airpark Rd</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>274.2</rc:StartMileMarker>
+        <rc:EndMileMarker>292.0</rc:EndMileMarker>
+        <rc:Length>17.79</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:48:21.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-70</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Denver - Kansas</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5278</rc:WeatherRouteId>
+        <rc:RouteName>Airpark Rd-Bennett</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>292.0</rc:StartMileMarker>
+        <rc:EndMileMarker>304.35</rc:EndMileMarker>
+        <rc:Length>12.35</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:48:21.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-70</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Denver - Kansas</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>18</rc:WeatherRouteId>
+        <rc:RouteName>Bennett-Limon</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>304.35</rc:StartMileMarker>
+        <rc:EndMileMarker>363.0</rc:EndMileMarker>
+        <rc:Length>58.64</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:48:21.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-70</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Denver - Kansas</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>19</rc:WeatherRouteId>
+        <rc:RouteName>Limon-Genoa-Seibert</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>363.0</rc:StartMileMarker>
+        <rc:EndMileMarker>400.0</rc:EndMileMarker>
+        <rc:Length>37.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:48:21.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-70</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Denver - Kansas</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>20</rc:WeatherRouteId>
+        <rc:RouteName>Seibert-Stratton-Burlington-Kansas</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>400.0</rc:StartMileMarker>
+        <rc:EndMileMarker>448.0</rc:EndMileMarker>
+        <rc:Length>48.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:48:21.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-70</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Denver - Kansas</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5285</rc:WeatherRouteId>
+        <rc:RouteName>Wheat Ridge/Arvada-Brighton</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>1.0</rc:StartMileMarker>
+        <rc:EndMileMarker>18.0</rc:EndMileMarker>
+        <rc:Length>17.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-76</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>41</rc:WeatherRouteId>
+        <rc:RouteName>Brighton-Ft. Morgan</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>18.0</rc:StartMileMarker>
+        <rc:EndMileMarker>80.12</rc:EndMileMarker>
+        <rc:Length>62.12</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:41.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-76</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>42</rc:WeatherRouteId>
+        <rc:RouteName>Ft. Morgan-Sterling</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>80.12</rc:StartMileMarker>
+        <rc:EndMileMarker>124.76</rc:EndMileMarker>
+        <rc:Length>44.63</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:41.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-76</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>43</rc:WeatherRouteId>
+        <rc:RouteName>Sterling-Nebraska</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>124.76</rc:StartMileMarker>
+        <rc:EndMileMarker>183.0</rc:EndMileMarker>
+        <rc:Length>58.22</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:41.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-76</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>30</rc:WeatherRouteId>
+        <rc:RouteName>I-25 to I-70</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>1.0</rc:StartMileMarker>
+        <rc:EndMileMarker>11.0</rc:EndMileMarker>
+        <rc:Length>10.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-225</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>31</rc:WeatherRouteId>
+        <rc:RouteName>270 from I-76 to I-70</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>4.92</rc:EndMileMarker>
+        <rc:Length>4.92</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>I-270</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>7</rc:WeatherRouteId>
+        <rc:RouteName>Loveland Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>208.66</rc:StartMileMarker>
+        <rc:EndMileMarker>229.33</rc:EndMileMarker>
+        <rc:Length>20.62</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:47:32.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 6</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Denver - Utah</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5057</rc:WeatherRouteId>
+        <rc:RouteName>Clear Creek Canyon</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>258.0</rc:StartMileMarker>
+        <rc:EndMileMarker>272.0</rc:EndMileMarker>
+        <rc:Length>14.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 6</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>40</rc:WeatherRouteId>
+        <rc:RouteName>Denver-Golden</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>272.1</rc:StartMileMarker>
+        <rc:EndMileMarker>284.39</rc:EndMileMarker>
+        <rc:Length>12.29</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 6</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5076</rc:WeatherRouteId>
+        <rc:RouteName>Sterling-Holyoke</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>405.0</rc:StartMileMarker>
+        <rc:EndMileMarker>456.0</rc:EndMileMarker>
+        <rc:Length>51.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:41.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 6</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5117</rc:WeatherRouteId>
+        <rc:RouteName>Leadville-Tennessee Pass- Battle Mtn</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>144.0</rc:StartMileMarker>
+        <rc:EndMileMarker>175.0</rc:EndMileMarker>
+        <rc:Length>31.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 24</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5112</rc:WeatherRouteId>
+        <rc:RouteName>Ute Pass/Woodland Park-Wilkerson Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>227.0</rc:StartMileMarker>
+        <rc:EndMileMarker>285.0</rc:EndMileMarker>
+        <rc:Length>58.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 24</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5077</rc:WeatherRouteId>
+        <rc:RouteName>Colorado Springs-Limon</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>306.0</rc:StartMileMarker>
+        <rc:EndMileMarker>378.0</rc:EndMileMarker>
+        <rc:Length>72.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:52:47.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 24</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5190</rc:WeatherRouteId>
+        <rc:RouteName>Trail Ridge Road</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>16.0</rc:StartMileMarker>
+        <rc:EndMileMarker>59.0</rc:EndMileMarker>
+        <rc:Length>43.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T07:47:17.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 34</rc:RoadName>
+        <rc:Comment>Open. May close temporarily for severe weather. Information: 970-586-1222.</rc:Comment>
+        <rc:RoadConditionCategoryTxt>No Data</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>11.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Seasonal</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>true</rc:IsHazardousCondition>
+        <rc:RoadCondition>No Data</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5042</rc:WeatherRouteId>
+        <rc:RouteName>Loveland-Estes Park</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>62.0</rc:StartMileMarker>
+        <rc:EndMileMarker>92.0</rc:EndMileMarker>
+        <rc:Length>30.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 34</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5074</rc:WeatherRouteId>
+        <rc:RouteName>Loveland-Wiggins</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>92.0</rc:StartMileMarker>
+        <rc:EndMileMarker>149.0</rc:EndMileMarker>
+        <rc:Length>57.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:41.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 34</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5073</rc:WeatherRouteId>
+        <rc:RouteName>Fort Morgan-Brush-Yuma-Wray</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>159.0</rc:StartMileMarker>
+        <rc:EndMileMarker>249.0</rc:EndMileMarker>
+        <rc:Length>90.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:41.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 34</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>36</rc:WeatherRouteId>
+        <rc:RouteName>Lyons-Estes Park</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>20.35</rc:EndMileMarker>
+        <rc:Length>20.35</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 36</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>35</rc:WeatherRouteId>
+        <rc:RouteName>Boulder-Lyons</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>20.35</rc:StartMileMarker>
+        <rc:EndMileMarker>36.34</rc:EndMileMarker>
+        <rc:Length>15.97</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 36</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5027</rc:WeatherRouteId>
+        <rc:RouteName>Denver-Boulder</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>36.34</rc:StartMileMarker>
+        <rc:EndMileMarker>56.0</rc:EndMileMarker>
+        <rc:Length>19.63</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 36</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5075</rc:WeatherRouteId>
+        <rc:RouteName>Watkins-Byers-Last Chance</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>78.0</rc:StartMileMarker>
+        <rc:EndMileMarker>135.0</rc:EndMileMarker>
+        <rc:Length>57.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:41.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 36</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5276</rc:WeatherRouteId>
+        <rc:RouteName>Last Chance-Cope-Idalia</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>136.0</rc:StartMileMarker>
+        <rc:EndMileMarker>210.0</rc:EndMileMarker>
+        <rc:Length>74.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:41.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 36</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5176</rc:WeatherRouteId>
+        <rc:RouteName>Dinosaur-Elk Springs-Maybell</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>90.0</rc:EndMileMarker>
+        <rc:Length>90.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:56:44.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 40</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5175</rc:WeatherRouteId>
+        <rc:RouteName>Craig-Hayden-Milner</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>90.0</rc:StartMileMarker>
+        <rc:EndMileMarker>121.0</rc:EndMileMarker>
+        <rc:Length>31.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:56:44.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 40</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5174</rc:WeatherRouteId>
+        <rc:RouteName>Steamboat Springs</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>122.0</rc:StartMileMarker>
+        <rc:EndMileMarker>137.0</rc:EndMileMarker>
+        <rc:Length>15.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:56:44.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 40</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5173</rc:WeatherRouteId>
+        <rc:RouteName>Rabbit Ears Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>137.0</rc:StartMileMarker>
+        <rc:EndMileMarker>178.0</rc:EndMileMarker>
+        <rc:Length>41.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:56:44.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 40</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5170</rc:WeatherRouteId>
+        <rc:RouteName>Kremmling-Granby</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>178.0</rc:StartMileMarker>
+        <rc:EndMileMarker>211.0</rc:EndMileMarker>
+        <rc:Length>33.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:56:44.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 40</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5001</rc:WeatherRouteId>
+        <rc:RouteName>Granby-Winter Park</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>212.0</rc:StartMileMarker>
+        <rc:EndMileMarker>231.0</rc:EndMileMarker>
+        <rc:Length>19.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:56:44.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 40</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5028</rc:WeatherRouteId>
+        <rc:RouteName>I-70 to Winter Park (Berthoud Pass)</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>232.0</rc:StartMileMarker>
+        <rc:EndMileMarker>257.0</rc:EndMileMarker>
+        <rc:Length>25.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:47:32.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 40</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Denver - Utah</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5095</rc:WeatherRouteId>
+        <rc:RouteName>Limon-Kit Carson</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>387.0</rc:StartMileMarker>
+        <rc:EndMileMarker>445.0</rc:EndMileMarker>
+        <rc:Length>58.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:52:47.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 40</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5096</rc:WeatherRouteId>
+        <rc:RouteName>Kit Carson-Cheyenne Wells</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>445.0</rc:StartMileMarker>
+        <rc:EndMileMarker>486.0</rc:EndMileMarker>
+        <rc:Length>41.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:52:47.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 40</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5129</rc:WeatherRouteId>
+        <rc:RouteName>Grand Junction-Delta</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>34.0</rc:StartMileMarker>
+        <rc:EndMileMarker>71.0</rc:EndMileMarker>
+        <rc:Length>37.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 50</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5128</rc:WeatherRouteId>
+        <rc:RouteName>Delta-Montrose</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>71.0</rc:StartMileMarker>
+        <rc:EndMileMarker>93.0</rc:EndMileMarker>
+        <rc:Length>22.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 50</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5127</rc:WeatherRouteId>
+        <rc:RouteName>Montrose-Cerro Summit-Blue Mesa-Gunnison</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>93.0</rc:StartMileMarker>
+        <rc:EndMileMarker>165.0</rc:EndMileMarker>
+        <rc:Length>72.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 50</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>54</rc:WeatherRouteId>
+        <rc:RouteName>Monarch Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>165.0</rc:StartMileMarker>
+        <rc:EndMileMarker>216.0</rc:EndMileMarker>
+        <rc:Length>51.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:56:27.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 50</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Wet</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>8.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Scattered Showers</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5126</rc:WeatherRouteId>
+        <rc:RouteName>Salida-Canon City</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>216.0</rc:StartMileMarker>
+        <rc:EndMileMarker>279.0</rc:EndMileMarker>
+        <rc:Length>63.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:56:27.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 50</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Wet</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>8.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Scattered Showers</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5121</rc:WeatherRouteId>
+        <rc:RouteName>Canon City-Pueblo</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>279.0</rc:StartMileMarker>
+        <rc:EndMileMarker>314.0</rc:EndMileMarker>
+        <rc:Length>35.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 50</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5087</rc:WeatherRouteId>
+        <rc:RouteName>Pueblo-LaJunta</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>316.0</rc:StartMileMarker>
+        <rc:EndMileMarker>379.0</rc:EndMileMarker>
+        <rc:Length>63.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:52:47.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 50</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5088</rc:WeatherRouteId>
+        <rc:RouteName>LaJunta-Lamar</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>379.0</rc:StartMileMarker>
+        <rc:EndMileMarker>436.0</rc:EndMileMarker>
+        <rc:Length>57.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:52:47.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 50</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5089</rc:WeatherRouteId>
+        <rc:RouteName>Lamar-Kansas Border</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>436.0</rc:StartMileMarker>
+        <rc:EndMileMarker>467.0</rc:EndMileMarker>
+        <rc:Length>31.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:52:47.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 50</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5070</rc:WeatherRouteId>
+        <rc:RouteName>Denver-Castle Rock</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>186.0</rc:StartMileMarker>
+        <rc:EndMileMarker>210.0</rc:EndMileMarker>
+        <rc:Length>24.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 85</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5194</rc:WeatherRouteId>
+        <rc:RouteName>Brighton-Greeley</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>235.0</rc:StartMileMarker>
+        <rc:EndMileMarker>266.0</rc:EndMileMarker>
+        <rc:Length>31.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:41.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 85</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>44</rc:WeatherRouteId>
+        <rc:RouteName>Greeley-Wyoming border</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>268.0</rc:StartMileMarker>
+        <rc:EndMileMarker>309.0</rc:EndMileMarker>
+        <rc:Length>41.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:41.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 85</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5158</rc:WeatherRouteId>
+        <rc:RouteName>Four Corners-Cortez</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>1.0</rc:StartMileMarker>
+        <rc:EndMileMarker>56.0</rc:EndMileMarker>
+        <rc:Length>55.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 160</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5156</rc:WeatherRouteId>
+        <rc:RouteName>Mancos Hill-Hesperus</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>56.0</rc:StartMileMarker>
+        <rc:EndMileMarker>80.0</rc:EndMileMarker>
+        <rc:Length>24.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 160</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5155</rc:WeatherRouteId>
+        <rc:RouteName>Durango-Bayfield-Pagosa Spgs</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>80.0</rc:StartMileMarker>
+        <rc:EndMileMarker>157.0</rc:EndMileMarker>
+        <rc:Length>77.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 160</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5154</rc:WeatherRouteId>
+        <rc:RouteName>Wolf Creek Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>157.0</rc:StartMileMarker>
+        <rc:EndMileMarker>185.0</rc:EndMileMarker>
+        <rc:Length>28.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:57.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 160</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Wet</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>8.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Scattered Showers</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5153</rc:WeatherRouteId>
+        <rc:RouteName>Del Norte-Alamosa</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>185.0</rc:StartMileMarker>
+        <rc:EndMileMarker>258.0</rc:EndMileMarker>
+        <rc:Length>73.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:57.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 160</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Wet</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>8.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Scattered Showers</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5152</rc:WeatherRouteId>
+        <rc:RouteName>La Veta Pass-Walsenburg</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>258.0</rc:StartMileMarker>
+        <rc:EndMileMarker>306.0</rc:EndMileMarker>
+        <rc:Length>48.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:57.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 160</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Wet</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>8.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Scattered Showers</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5280</rc:WeatherRouteId>
+        <rc:RouteName>Trinidad to Kansas</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>345.0</rc:StartMileMarker>
+        <rc:EndMileMarker>497.0</rc:EndMileMarker>
+        <rc:Length>152.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:52:47.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 160</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5108</rc:WeatherRouteId>
+        <rc:RouteName>Monte Vista-Saguache (San Luis Valley)</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>53.0</rc:StartMileMarker>
+        <rc:EndMileMarker>104.0</rc:EndMileMarker>
+        <rc:Length>51.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 285</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5286</rc:WeatherRouteId>
+        <rc:RouteName>Poncha Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>104.0</rc:StartMileMarker>
+        <rc:EndMileMarker>127.0</rc:EndMileMarker>
+        <rc:Length>23.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 285</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5287</rc:WeatherRouteId>
+        <rc:RouteName>Poncha Springs - Buena Vista</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>127.0</rc:StartMileMarker>
+        <rc:EndMileMarker>148.0</rc:EndMileMarker>
+        <rc:Length>21.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 285</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5102</rc:WeatherRouteId>
+        <rc:RouteName>Trout Creek Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>148.0</rc:StartMileMarker>
+        <rc:EndMileMarker>162.0</rc:EndMileMarker>
+        <rc:Length>14.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 285</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5101</rc:WeatherRouteId>
+        <rc:RouteName>Antero Jct-Fairplay-Jefferson (South Park)</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>162.0</rc:StartMileMarker>
+        <rc:EndMileMarker>198.0</rc:EndMileMarker>
+        <rc:Length>36.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:56:04.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 285</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Wind</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>7.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>true</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+        <rc:RoadCondition>High Wind</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5288</rc:WeatherRouteId>
+        <rc:RouteName>Kenosha Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>198.0</rc:StartMileMarker>
+        <rc:EndMileMarker>210.0</rc:EndMileMarker>
+        <rc:Length>12.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 285</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>52</rc:WeatherRouteId>
+        <rc:RouteName>Grant-Bailey-Pine Jct</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>210.0</rc:StartMileMarker>
+        <rc:EndMileMarker>229.0</rc:EndMileMarker>
+        <rc:Length>19.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 285</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5100</rc:WeatherRouteId>
+        <rc:RouteName>Pine Jct-Conifer-Turkey Creek Cyn</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>229.0</rc:StartMileMarker>
+        <rc:EndMileMarker>250.0</rc:EndMileMarker>
+        <rc:Length>21.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 285</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5292</rc:WeatherRouteId>
+        <rc:RouteName>US 285 Hampden Ave</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>250.0</rc:StartMileMarker>
+        <rc:EndMileMarker>263.0</rc:EndMileMarker>
+        <rc:Length>13.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 285</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5098</rc:WeatherRouteId>
+        <rc:RouteName>Springfield-Lamar</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>76.0</rc:EndMileMarker>
+        <rc:Length>76.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:52:47.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 287</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5265</rc:WeatherRouteId>
+        <rc:RouteName>Lamar-Kit Carson</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>88.0</rc:StartMileMarker>
+        <rc:EndMileMarker>132.0</rc:EndMileMarker>
+        <rc:Length>44.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:52:47.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 287</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5257</rc:WeatherRouteId>
+        <rc:RouteName>US 287 Westminster-Ft. Collins</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>290.0</rc:StartMileMarker>
+        <rc:EndMileMarker>344.0</rc:EndMileMarker>
+        <rc:Length>54.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 287</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5058</rc:WeatherRouteId>
+        <rc:RouteName>Ft Collins-Wyoming</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>344.0</rc:StartMileMarker>
+        <rc:EndMileMarker>384.0</rc:EndMileMarker>
+        <rc:Length>40.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 287</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5293</rc:WeatherRouteId>
+        <rc:RouteName>Trinidad - La Junta</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>1.0</rc:StartMileMarker>
+        <rc:EndMileMarker>73.0</rc:EndMileMarker>
+        <rc:Length>72.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:52:47.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 350</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5269</rc:WeatherRouteId>
+        <rc:RouteName>Granada-Cheyenne Wells</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>96.0</rc:StartMileMarker>
+        <rc:EndMileMarker>149.0</rc:EndMileMarker>
+        <rc:Length>53.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:52:47.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 385</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5097</rc:WeatherRouteId>
+        <rc:RouteName>Cheyenne Wells-Burlington</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>151.0</rc:StartMileMarker>
+        <rc:EndMileMarker>187.0</rc:EndMileMarker>
+        <rc:Length>36.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:52:47.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 385</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5275</rc:WeatherRouteId>
+        <rc:RouteName>Burlington-Wray</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>190.0</rc:StartMileMarker>
+        <rc:EndMileMarker>243.0</rc:EndMileMarker>
+        <rc:Length>53.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:41.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 385</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5271</rc:WeatherRouteId>
+        <rc:RouteName>Wray-Julesburg</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>244.0</rc:StartMileMarker>
+        <rc:EndMileMarker>310.0</rc:EndMileMarker>
+        <rc:Length>66.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:41.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 385</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5214</rc:WeatherRouteId>
+        <rc:RouteName>Cortez-Pleasant View-Dove Creek-Utah</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>27.0</rc:StartMileMarker>
+        <rc:EndMileMarker>68.0</rc:EndMileMarker>
+        <rc:Length>41.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 491</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5135</rc:WeatherRouteId>
+        <rc:RouteName>Bondad Hill-Durango</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>1.0</rc:StartMileMarker>
+        <rc:EndMileMarker>16.0</rc:EndMileMarker>
+        <rc:Length>15.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 550</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5137</rc:WeatherRouteId>
+        <rc:RouteName>Durango-Ski Area</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>22.0</rc:StartMileMarker>
+        <rc:EndMileMarker>50.0</rc:EndMileMarker>
+        <rc:Length>28.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 550</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5138</rc:WeatherRouteId>
+        <rc:RouteName>Coal Bank Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>50.0</rc:StartMileMarker>
+        <rc:EndMileMarker>60.0</rc:EndMileMarker>
+        <rc:Length>10.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 550</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5139</rc:WeatherRouteId>
+        <rc:RouteName>Molas Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>60.0</rc:StartMileMarker>
+        <rc:EndMileMarker>69.0</rc:EndMileMarker>
+        <rc:Length>9.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 550</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5140</rc:WeatherRouteId>
+        <rc:RouteName>Silverton-Red Mountain Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>69.0</rc:StartMileMarker>
+        <rc:EndMileMarker>92.0</rc:EndMileMarker>
+        <rc:Length>23.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 550</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5141</rc:WeatherRouteId>
+        <rc:RouteName>Ouray-Ridgway</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>92.0</rc:StartMileMarker>
+        <rc:EndMileMarker>129.0</rc:EndMileMarker>
+        <rc:Length>37.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>US 550</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5195</rc:WeatherRouteId>
+        <rc:RouteName>Mt. Evans</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>15.0</rc:EndMileMarker>
+        <rc:Length>15.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T07:47:17.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 5</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>No Data</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>11.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Seasonal</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>No Data</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5263</rc:WeatherRouteId>
+        <rc:RouteName>Estes Park-Lyons</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>1.0</rc:StartMileMarker>
+        <rc:EndMileMarker>32.0</rc:EndMileMarker>
+        <rc:Length>31.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 7</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5072</rc:WeatherRouteId>
+        <rc:RouteName>Boulder-Brighton/US 85</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>53.0</rc:StartMileMarker>
+        <rc:EndMileMarker>81.0</rc:EndMileMarker>
+        <rc:Length>28.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 7</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5041</rc:WeatherRouteId>
+        <rc:RouteName>Morrison</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>2.0</rc:EndMileMarker>
+        <rc:Length>2.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 8</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5242</rc:WeatherRouteId>
+        <rc:RouteName>Fairplay-US 50</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>63.0</rc:EndMileMarker>
+        <rc:Length>63.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 9</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5109</rc:WeatherRouteId>
+        <rc:RouteName>Hoosier Pass-Frisco</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>65.0</rc:StartMileMarker>
+        <rc:EndMileMarker>96.0</rc:EndMileMarker>
+        <rc:Length>31.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 9</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5171</rc:WeatherRouteId>
+        <rc:RouteName>Silverthorne-Kremmling</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>102.0</rc:StartMileMarker>
+        <rc:EndMileMarker>138.0</rc:EndMileMarker>
+        <rc:Length>36.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:56:44.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 9</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5241</rc:WeatherRouteId>
+        <rc:RouteName>La Junta-Walsenburg</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>70.0</rc:EndMileMarker>
+        <rc:Length>70.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:52:47.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 10</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5228</rc:WeatherRouteId>
+        <rc:RouteName>La Veta-Trinidad</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>70.0</rc:EndMileMarker>
+        <rc:Length>70.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 12</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5050</rc:WeatherRouteId>
+        <rc:RouteName>Rio Blanco Hill/Nine Mile Hill</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>1.0</rc:StartMileMarker>
+        <rc:EndMileMarker>41.0</rc:EndMileMarker>
+        <rc:Length>40.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:56:44.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 13</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>50</rc:WeatherRouteId>
+        <rc:RouteName>Meeker-Craig-Wyoming</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>41.0</rc:StartMileMarker>
+        <rc:EndMileMarker>127.0</rc:EndMileMarker>
+        <rc:Length>86.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:56:44.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 13</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5283</rc:WeatherRouteId>
+        <rc:RouteName>US 40-Walden</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>1.0</rc:StartMileMarker>
+        <rc:EndMileMarker>50.0</rc:EndMileMarker>
+        <rc:Length>49.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:56:44.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 14</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5187</rc:WeatherRouteId>
+        <rc:RouteName>Cameron Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>50.0</rc:StartMileMarker>
+        <rc:EndMileMarker>88.0</rc:EndMileMarker>
+        <rc:Length>38.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:56:44.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 14</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5264</rc:WeatherRouteId>
+        <rc:RouteName>Ft. Collins-Sterling</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>141.0</rc:StartMileMarker>
+        <rc:EndMileMarker>236.0</rc:EndMileMarker>
+        <rc:Length>95.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:41.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 14</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5151</rc:WeatherRouteId>
+        <rc:RouteName>Cumbres-La Manga passes</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>30.0</rc:EndMileMarker>
+        <rc:Length>30.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 17</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>46</rc:WeatherRouteId>
+        <rc:RouteName>Golden-Arvada</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>5.44</rc:EndMileMarker>
+        <rc:Length>5.44</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 58</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5142</rc:WeatherRouteId>
+        <rc:RouteName>Dallas Divide</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>23.0</rc:EndMileMarker>
+        <rc:Length>23.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 62</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5184</rc:WeatherRouteId>
+        <rc:RouteName>Rangely</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>1.0</rc:StartMileMarker>
+        <rc:EndMileMarker>27.0</rc:EndMileMarker>
+        <rc:Length>26.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:56:44.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 64</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5119</rc:WeatherRouteId>
+        <rc:RouteName>Grand Mesa</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>51.0</rc:EndMileMarker>
+        <rc:Length>51.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 65</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5211</rc:WeatherRouteId>
+        <rc:RouteName>Cripple Creek-Divide</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>50.0</rc:StartMileMarker>
+        <rc:EndMileMarker>70.0</rc:EndMileMarker>
+        <rc:Length>20.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 67</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5247</rc:WeatherRouteId>
+        <rc:RouteName>Woodland Park-Deckers</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>78.0</rc:StartMileMarker>
+        <rc:EndMileMarker>99.0</rc:EndMileMarker>
+        <rc:Length>21.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 67</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5248</rc:WeatherRouteId>
+        <rc:RouteName>Rampart Range Rd-Sedalia</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>118.0</rc:StartMileMarker>
+        <rc:EndMileMarker>127.0</rc:EndMileMarker>
+        <rc:Length>9.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 67</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5273</rc:WeatherRouteId>
+        <rc:RouteName>Walsenburg-Westcliffe</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>82.0</rc:EndMileMarker>
+        <rc:Length>82.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 69</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5250</rc:WeatherRouteId>
+        <rc:RouteName>Rocky Ford-Limon</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>16.0</rc:StartMileMarker>
+        <rc:EndMileMarker>100.0</rc:EndMileMarker>
+        <rc:Length>84.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:52:47.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 71</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5251</rc:WeatherRouteId>
+        <rc:RouteName>Limon-Brush</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>102.0</rc:StartMileMarker>
+        <rc:EndMileMarker>174.0</rc:EndMileMarker>
+        <rc:Length>72.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:41.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 71</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5253</rc:WeatherRouteId>
+        <rc:RouteName>Brush-Nebraska</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>176.0</rc:StartMileMarker>
+        <rc:EndMileMarker>231.0</rc:EndMileMarker>
+        <rc:Length>55.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:41.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 71</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5298</rc:WeatherRouteId>
+        <rc:RouteName>Coal Creek Canyon</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>11.0</rc:StartMileMarker>
+        <rc:EndMileMarker>29.0</rc:EndMileMarker>
+        <rc:Length>18.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 72</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5279</rc:WeatherRouteId>
+        <rc:RouteName>Nederland - Ward</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>32.0</rc:StartMileMarker>
+        <rc:EndMileMarker>54.0</rc:EndMileMarker>
+        <rc:Length>22.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 72</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>51</rc:WeatherRouteId>
+        <rc:RouteName>Evergreen-Morrison</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>17.0</rc:EndMileMarker>
+        <rc:Length>17.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 74</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>47</rc:WeatherRouteId>
+        <rc:RouteName>Basalt-Glenwood Springs</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>1.0</rc:StartMileMarker>
+        <rc:EndMileMarker>11.68</rc:EndMileMarker>
+        <rc:Length>10.68</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 82</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>48</rc:WeatherRouteId>
+        <rc:RouteName>Aspen-Basalt</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>11.68</rc:StartMileMarker>
+        <rc:EndMileMarker>61.11</rc:EndMileMarker>
+        <rc:Length>49.43</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 82</rc:RoadName>
+        <rc:Comment>No vehicles over 35 feet in length, commercial or private, due to tight switchbacks. Independence Pass will close to through traffic for the USAPC bike race at 10:30 am to approximately 6 pm August 22nd and at 8am westbound and 9 am eastbound until approximately 2:30 pm on August 23rd.  Overnight camping between mile post 56 and 66 is prohibited. Parking and viewing areas on the pass are limited.</rc:Comment>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>true</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5191</rc:WeatherRouteId>
+        <rc:RouteName>Independence Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>61.12</rc:StartMileMarker>
+        <rc:EndMileMarker>79.0</rc:EndMileMarker>
+        <rc:Length>17.88</rc:Length>
+        <rc:CalculatedDate>2012-08-17T07:47:17.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 82</rc:RoadName>
+        <rc:Comment>No vehicles over 35 ft length allowed over Independence Pass, including buses, semis, RVs, stock trailers, etc. Independence Pass will close to through traffic for the USAPC bike race at 10:30 am to approximately 6 pm August 22nd and at 8am westbound and 9 am eastbound until approximately 2:30 pm on August 23rd.  Overnight camping between mile post 56 and 66 is prohibited. Parking and viewing areas on the pass are limited.</rc:Comment>
+        <rc:RoadConditionCategoryTxt>No Data</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>11.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Seasonal</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>true</rc:IsHazardousCondition>
+        <rc:RoadCondition>No Data</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5266</rc:WeatherRouteId>
+        <rc:RouteName>CO Springs - El Paso CL - Franktown</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>21.0</rc:StartMileMarker>
+        <rc:EndMileMarker>51.0</rc:EndMileMarker>
+        <rc:Length>30.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 83</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5267</rc:WeatherRouteId>
+        <rc:RouteName>Franktown-Parker</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>51.0</rc:StartMileMarker>
+        <rc:EndMileMarker>70.0</rc:EndMileMarker>
+        <rc:Length>19.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 83</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5083</rc:WeatherRouteId>
+        <rc:RouteName>Franktown-Kiowa</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>7.0</rc:StartMileMarker>
+        <rc:EndMileMarker>22.0</rc:EndMileMarker>
+        <rc:Length>15.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:52:47.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 86</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5255</rc:WeatherRouteId>
+        <rc:RouteName>Kiowa to I-70</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>23.0</rc:StartMileMarker>
+        <rc:EndMileMarker>59.0</rc:EndMileMarker>
+        <rc:Length>36.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:52:47.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 86</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5111</rc:WeatherRouteId>
+        <rc:RouteName>Fremont Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>22.0</rc:EndMileMarker>
+        <rc:Length>22.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 91</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>37</rc:WeatherRouteId>
+        <rc:RouteName>Golden-Boulder</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.93</rc:StartMileMarker>
+        <rc:EndMileMarker>18.0</rc:EndMileMarker>
+        <rc:Length>17.04</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 93</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5256</rc:WeatherRouteId>
+        <rc:RouteName>Colo Spgs-Punkin Center</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>2.0</rc:StartMileMarker>
+        <rc:EndMileMarker>53.0</rc:EndMileMarker>
+        <rc:Length>51.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:52:47.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 94</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5084</rc:WeatherRouteId>
+        <rc:RouteName>US40/287-Punkin Center</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>55.0</rc:StartMileMarker>
+        <rc:EndMileMarker>85.0</rc:EndMileMarker>
+        <rc:Length>30.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:52:47.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 94</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5299</rc:WeatherRouteId>
+        <rc:RouteName>Westcliffe-Pueblo</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>1.0</rc:StartMileMarker>
+        <rc:EndMileMarker>54.0</rc:EndMileMarker>
+        <rc:Length>53.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 96</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5274</rc:WeatherRouteId>
+        <rc:RouteName>Pueblo-Kansas border</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>70.0</rc:StartMileMarker>
+        <rc:EndMileMarker>207.0</rc:EndMileMarker>
+        <rc:Length>137.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:52:47.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 96</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5120</rc:WeatherRouteId>
+        <rc:RouteName>Cochetopa/North passes</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>61.0</rc:EndMileMarker>
+        <rc:Length>61.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 114</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>49</rc:WeatherRouteId>
+        <rc:RouteName>Canon City-Colorado Springs</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>14.0</rc:StartMileMarker>
+        <rc:EndMileMarker>44.0</rc:EndMileMarker>
+        <rc:Length>30.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 115</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>39</rc:WeatherRouteId>
+        <rc:RouteName>Blackhawk-Central City Area</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>1.0</rc:StartMileMarker>
+        <rc:EndMileMarker>25.0</rc:EndMileMarker>
+        <rc:Length>24.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 119</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5040</rc:WeatherRouteId>
+        <rc:RouteName>Boulder Canyon</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>25.0</rc:StartMileMarker>
+        <rc:EndMileMarker>45.0</rc:EndMileMarker>
+        <rc:Length>20.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 119</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>38</rc:WeatherRouteId>
+        <rc:RouteName>Boulder-Longmont</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>45.0</rc:StartMileMarker>
+        <rc:EndMileMarker>55.0</rc:EndMileMarker>
+        <rc:Length>10.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 119</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5232</rc:WeatherRouteId>
+        <rc:RouteName>US 40 Jct (Granby)-Willow Creek Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>1.0</rc:StartMileMarker>
+        <rc:EndMileMarker>25.0</rc:EndMileMarker>
+        <rc:Length>24.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:56:44.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 125</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5206</rc:WeatherRouteId>
+        <rc:RouteName>Walden-Wyoming</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>25.0</rc:StartMileMarker>
+        <rc:EndMileMarker>75.0</rc:EndMileMarker>
+        <rc:Length>50.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:56:44.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 125</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5225</rc:WeatherRouteId>
+        <rc:RouteName>Wolcott-Steamboat Springs</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>1.0</rc:StartMileMarker>
+        <rc:EndMileMarker>68.0</rc:EndMileMarker>
+        <rc:Length>67.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:56:44.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 131</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5118</rc:WeatherRouteId>
+        <rc:RouteName>McClure Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>1.0</rc:StartMileMarker>
+        <rc:EndMileMarker>68.0</rc:EndMileMarker>
+        <rc:Length>67.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 133</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5180</rc:WeatherRouteId>
+        <rc:RouteName>Gore Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>26.0</rc:EndMileMarker>
+        <rc:Length>26.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:56:44.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 134</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>55</rc:WeatherRouteId>
+        <rc:RouteName>Crested Butte</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>1.0</rc:StartMileMarker>
+        <rc:EndMileMarker>27.0</rc:EndMileMarker>
+        <rc:Length>26.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 135</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>56</rc:WeatherRouteId>
+        <rc:RouteName>Douglas Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>31.0</rc:StartMileMarker>
+        <rc:EndMileMarker>39.0</rc:EndMileMarker>
+        <rc:Length>8.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:56:44.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 139</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5168</rc:WeatherRouteId>
+        <rc:RouteName>Dove Creek-Slick Rock-Naturita</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>1.0</rc:StartMileMarker>
+        <rc:EndMileMarker>62.0</rc:EndMileMarker>
+        <rc:Length>61.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 141</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5169</rc:WeatherRouteId>
+        <rc:RouteName>Unaweep Canyon</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>111.0</rc:StartMileMarker>
+        <rc:EndMileMarker>153.0</rc:EndMileMarker>
+        <rc:Length>42.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 141</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5146</rc:WeatherRouteId>
+        <rc:RouteName>Cortez-Rico</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>1.0</rc:StartMileMarker>
+        <rc:EndMileMarker>46.0</rc:EndMileMarker>
+        <rc:Length>45.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 145</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5145</rc:WeatherRouteId>
+        <rc:RouteName>Lizard Head Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>46.0</rc:StartMileMarker>
+        <rc:EndMileMarker>71.0</rc:EndMileMarker>
+        <rc:Length>25.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 145</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5144</rc:WeatherRouteId>
+        <rc:RouteName>Telluride/Keystone, Lawson, Norwood hills</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>71.0</rc:StartMileMarker>
+        <rc:EndMileMarker>116.0</rc:EndMileMarker>
+        <rc:Length>45.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 145</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5231</rc:WeatherRouteId>
+        <rc:RouteName>CO 149 Creede</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>55.0</rc:EndMileMarker>
+        <rc:Length>55.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 149</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5230</rc:WeatherRouteId>
+        <rc:RouteName>Spring Creek Pass-Slumgullion Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>55.0</rc:StartMileMarker>
+        <rc:EndMileMarker>69.0</rc:EndMileMarker>
+        <rc:Length>14.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 149</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5229</rc:WeatherRouteId>
+        <rc:RouteName>Lake City</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>70.0</rc:StartMileMarker>
+        <rc:EndMileMarker>117.0</rc:EndMileMarker>
+        <rc:Length>47.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:55:26.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 149</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Southwest</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5272</rc:WeatherRouteId>
+        <rc:RouteName>I-25 to CO 14 Briggsdale</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>100.0</rc:StartMileMarker>
+        <rc:EndMileMarker>140.0</rc:EndMileMarker>
+        <rc:Length>40.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:41.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CO 392</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Northeast</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>32</rc:WeatherRouteId>
+        <rc:RouteName>I-70 to I-25</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>25.45</rc:EndMileMarker>
+        <rc:Length>25.95</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>C-470</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5218</rc:WeatherRouteId>
+        <rc:RouteName>E-470</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>45.0</rc:EndMileMarker>
+        <rc:Length>45.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T20:51:12.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>E-470</rc:RoadName>
+        <rc:RoadConditionCategoryTxt>Dry</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>9.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Front Range</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>false</rc:IsHazardousCondition>
+        <rc:RoadCondition>Dry</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5209</rc:WeatherRouteId>
+        <rc:RouteName>FR 209, 306 Cottonwood Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>27.0</rc:EndMileMarker>
+        <rc:Length>27.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T07:47:17.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>FR209, 306</rc:RoadName>
+        <rc:Comment>Open. May close temporaily for severe weather. Road maintained by Chaffee County. Call (719) 539-6961 for info. Cottonwood pass will close from the Denny Creek Trailhead to Taylor Reservoir at 3 pm 8/21 to approximately 1 pm 8/22 for the USAPC bike race, pedestrians and bicycles can access the road, but vehicles will not be allowed.</rc:Comment>
+        <rc:RoadConditionCategoryTxt>No Data</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>11.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Seasonal</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>true</rc:IsHazardousCondition>
+        <rc:RoadCondition>No Data</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5277</rc:WeatherRouteId>
+        <rc:RouteName>Guanella Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>18.0</rc:EndMileMarker>
+        <rc:Length>18.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T07:47:17.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>CR381, 62</rc:RoadName>
+        <rc:Comment>Open. May close temporarily for severe weather. Not a CDOT maintained road. The Guanella Pass Road Information Line is 303-679-2422 ext 2</rc:Comment>
+        <rc:RoadConditionCategoryTxt>No Data</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>11.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Seasonal</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>true</rc:IsHazardousCondition>
+        <rc:RoadCondition>No Data</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5208</rc:WeatherRouteId>
+        <rc:RouteName>GCR 12 Kebler Pass</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>31.0</rc:EndMileMarker>
+        <rc:Length>31.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T07:47:17.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>GCR 12</rc:RoadName>
+        <rc:Comment>Open. May close temporarily for severe weather. Road maintained by Gunnison County. For more info, contact Gunnison County Public Works at (970) 641-0044.</rc:Comment>
+        <rc:RoadConditionCategoryTxt>No Data</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>11.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Seasonal</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>true</rc:IsHazardousCondition>
+        <rc:RoadCondition>No Data</rc:RoadCondition>
+    </rc:WeatherRoute>
+    <rc:WeatherRoute>
+        <rc:WeatherRouteId>5207</rc:WeatherRouteId>
+        <rc:RouteName>Pikes Peak Hwy.</rc:RouteName>
+        <rc:Status>enabled</rc:Status>
+        <rc:StartMileMarker>0.0</rc:StartMileMarker>
+        <rc:EndMileMarker>20.0</rc:EndMileMarker>
+        <rc:Length>20.0</rc:Length>
+        <rc:CalculatedDate>2012-08-17T07:47:17.000-06:00</rc:CalculatedDate>
+        <rc:RoadName>COS 1</rc:RoadName>
+        <rc:Comment>Open 730A-6P. May close temporaily for severe weather.  Now paved to the summit. Information: 719-385-7325.</rc:Comment>
+        <rc:RoadConditionCategoryTxt>No Data</rc:RoadConditionCategoryTxt>
+        <rc:RoadConditionCategoryCd>11.0</rc:RoadConditionCategoryCd>
+        <rc:RouteGroupTxt>Seasonal</rc:RouteGroupTxt>
+        <rc:IsHazardousCondition>true</rc:IsHazardousCondition>
+        <rc:RoadCondition>No Data</rc:RoadCondition>
+    </rc:WeatherRoute>
+</rc:RoadConditionsDetails>
