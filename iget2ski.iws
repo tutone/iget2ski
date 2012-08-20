@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27cd24d3-61c8-4c73-b888-d13b99f516b9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iget2ski.iws" afterPath="$PROJECT_DIR$/iget2ski.iws" />
-    </list>
+    <list default="true" id="27cd24d3-61c8-4c73-b888-d13b99f516b9" name="Default" comment="" />
     <ignored path="iget2ski.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
