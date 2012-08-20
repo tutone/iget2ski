@@ -70,7 +70,7 @@
       <file leaf-file-name="index.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/index.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="7" selection-start="0" selection-end="1307" vertical-scroll-proportion="1.0022272">
+            <state line="37" column="7" selection-start="0" selection-end="1311" vertical-scroll-proportion="1.0022272">
               <folding />
             </state>
           </provider>
@@ -351,7 +351,11 @@
       <created>1345425663106</created>
       <updated>1345425663106</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit test intelliJ">
+      <created>1345428034180</created>
+      <updated>1345428034180</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -449,7 +453,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="7" selection-start="0" selection-end="1307" vertical-scroll-proportion="1.0022272">
+        <state line="37" column="7" selection-start="0" selection-end="1311" vertical-scroll-proportion="1.0022272">
           <folding />
         </state>
       </provider>
