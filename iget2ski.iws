@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="27cd24d3-61c8-4c73-b888-d13b99f516b9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iget2ski.iws" afterPath="$PROJECT_DIR$/iget2ski.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.erb" afterPath="$PROJECT_DIR$/views/index.erb" />
     </list>
     <ignored path="iget2ski.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -350,7 +349,11 @@
       <created>1345425519867</created>
       <updated>1345425519867</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit test intelliJ">
+      <created>1345425663106</created>
+      <updated>1345425663106</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
